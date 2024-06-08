@@ -1,7 +1,7 @@
 # **Universidad Escuela Colombiana de Ingeniería Julio Garavito**
 
-## **Fundamentos de la Inteligencia Artificial 2023-2**
+## **Aprendizaje Profundo 2024-1**
 
-Conocimientos, metodologías, técnicas y herramientas fundamentales de la inteligencia artificial (IA).
+Conocimientos, técnicas y herramientas del área de aprendizaje profundo.
 
 *Por: Juan Pablo Daza Pereira y Juan Sebastian Camargo Sanchez*
